@@ -12,7 +12,7 @@ module.exports = {
     };
   },
   //assetPrefix: '',
-  assetPrefix: !debug ? "/Next-page-github/" : "",
+  assetPrefix: !debug ? "/Next-gh-page-example/" : "",
   webpack: (config, { dev }) => {
     // Perform customizations to webpack config
     // console.log('webpack');
